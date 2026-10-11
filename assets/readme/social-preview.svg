@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1280" height="640" viewBox="0 0 1280 640"
+     role="img" aria-labelledby="spTitle spDesc">
+  <title id="spTitle">Tacit Knowledge Prompting · 默会知识提示（社交分享图）</title>
+  <desc id="spDesc">标题 Tacit Knowledge Prompting 与中文名默会知识提示，下方并列两条：显性层（数据、定义、可验证推理）与默会层（直觉、经验、情境判断）。</desc>
+
+  <defs>
+    <linearGradient id="spbg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#0E1116"/>
+      <stop offset="1" stop-color="#141B25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#spbg)"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif">
+    <text x="640" y="112" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="26" letter-spacing="4" fill="#7D8794">AGENT SKILL · POLANYI 1958 · MIT</text>
+
+    <text x="640" y="222" text-anchor="middle" font-size="76" font-weight="700" fill="#E8EAED">Tacit Knowledge Prompting</text>
+
+    <text x="640" y="288" text-anchor="middle" font-size="34" fill="#C9D1D9">默会知识提示 · 让 AI 说出「说不清但就是知道」的那部分</text>
+  </g>
+
+  <g id="layer-explicit">
+    <rect x="140" y="340" width="1000" height="90" rx="14" fill="#161C25" stroke="#262E3A" stroke-width="1.5"/>
+    <rect x="140" y="340" width="6" height="90" rx="3" fill="#6FA8DC"/>
+    <circle cx="188" cy="385" r="7" fill="#6FA8DC"/>
+    <text x="212" y="394" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="24" letter-spacing="2" fill="#6FA8DC">1 · EXPLICIT</text>
+    <text x="430" y="395" font-size="30" font-weight="700" fill="#E8EAED">显性层</text>
+    <text x="1108" y="395" font-size="24" fill="#9BA4AF" text-anchor="end">数据 · 定义 · 可验证推理</text>
+  </g>
+
+  <text x="640" y="464" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="20" letter-spacing="2" fill="#5A6472">—— the waterline ——</text>
+
+  <g id="layer-tacit">
+    <rect x="140" y="486" width="1000" height="90" rx="14" fill="#161C25" stroke="#262E3A" stroke-width="1.5"/>
+    <rect x="140" y="486" width="6" height="90" rx="3" fill="#E5A03C"/>
+    <circle cx="188" cy="531" r="7" fill="#E5A03C"/>
+    <text x="212" y="540" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="24" letter-spacing="2" fill="#E5A03C">2 · TACIT</text>
+    <text x="430" y="541" font-size="30" font-weight="700" fill="#E8EAED">默会层</text>
+    <text x="1108" y="541" font-size="24" fill="#9BA4AF" text-anchor="end">直觉 · 经验 · 情境判断</text>
+  </g>
+
+  <text x="640" y="620" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="20" fill="#6E7681">github.com/Ailsaahaha/tacit-knowledge-prompting</text>
+</svg>

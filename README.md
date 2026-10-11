@@ -2,7 +2,9 @@
 
 > 让 AI 说出它「说不清但就是知道」的那部分。
 
-作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
+作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)
+
+https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
 
 [English below](#english)
 

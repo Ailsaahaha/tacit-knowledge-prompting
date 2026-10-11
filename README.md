@@ -2,6 +2,8 @@
 
 > 让 AI 说出它「说不清但就是知道」的那部分。
 
+作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)
+
 [English below](#english)
 
 ## 问题
@@ -145,6 +147,8 @@ If you can't articulate it, say "I can't articulate it" — don't invent a reaso
 Three templates included: **judgment** (should I / is it worth it), **style** (does this read like a human), **experience** (which one will take off). See `SKILL.md` for all three plus a worked example.
 
 **Caveat:** the tacit layer is a signal, not a substitute for data. Always pair it with a control option.
+
+**Author:** Ailsaahaha ([@Ailsaahaha](https://github.com/Ailsaahaha))
 
 ## License
 

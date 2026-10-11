@@ -1,5 +1,9 @@
 # Tacit Knowledge Prompting · 默会知识提示
 
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Tacit Knowledge Prompting：一个让 AI 同时输出显性层（数据、定义、可验证推理）与默会层（直觉、经验、情境判断）的提示词技能">
+</p>
+
 > 让 AI 说出它「说不清但就是知道」的那部分。
 
 作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)
@@ -84,6 +88,18 @@ https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
 ```
 </details>
 
+## 安装
+
+把 `SKILL.md` 放到你的 Agent skills 目录即可：
+
+- **WorkBuddy / CodeBuddy**：`~/.workbuddy-ai/skills/tacit-knowledge-prompting/SKILL.md`
+- **Claude Code**：`.claude/skills/tacit-knowledge-prompting/SKILL.md`
+- **Cursor / Codex**：对应项目的 skills 目录
+
+装完以后，直接说「按波兰尼两层想一下」就能调用。
+
+也可以不安装，只复制上面的模板直接用。
+
 ## 效果对比（真实案例）
 
 **问题**：3 个候选选题 ① 牙线怎么用 ② 智齿要不要拔 ③ 洗牙一次多少钱，哪类更可能爆？
@@ -101,18 +117,6 @@ https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
 > 但这是我看了大量内容的感觉，**不一定每次都对**——建议优先智齿，同时把牙线做出来当对照组。
 
 差别就在第二层。第一层是数据，第二层是「说不出为什么但就是觉得对」。
-
-## 安装
-
-把 `SKILL.md` 放到你的 Agent skills 目录即可：
-
-- **WorkBuddy / CodeBuddy**：`~/.workbuddy-ai/skills/tacit-knowledge-prompting/SKILL.md`
-- **Claude Code**：`.claude/skills/tacit-knowledge-prompting/SKILL.md`
-- **Cursor / Codex**：对应项目的 skills 目录
-
-装完以后，直接说「按波兰尼两层想一下」就能调用。
-
-也可以不安装，只复制上面的模板直接用。
 
 ## 注意事项
 

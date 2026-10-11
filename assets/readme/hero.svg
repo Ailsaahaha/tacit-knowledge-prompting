@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="420" viewBox="0 0 1200 420"
+     role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Tacit Knowledge Prompting · 默会知识提示</title>
+  <desc id="heroDesc">一个让 AI 同时输出显性层（数据、定义、可验证推理）与默会层（直觉、经验、情境判断）的提示词技能，基于波兰尼 1958 年《个人知识》。</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1116"/>
+      <stop offset="1" stop-color="#131922"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+
+  <!-- ============ left: identity ============ -->
+  <g id="identity" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif">
+    <text x="64" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="18" letter-spacing="3" fill="#7D8794">AGENT SKILL · POLANYI 1958</text>
+
+    <text x="64" y="152" font-size="46" font-weight="700" fill="#E8EAED">Tacit Knowledge Prompting</text>
+    <text x="64" y="204" font-size="30" font-weight="600" fill="#C9D1D9">默会知识提示</text>
+
+    <text x="64" y="256" font-size="27" font-weight="600" fill="#E8EAED">让 AI 说出「说不清但就是知道」的那部分</text>
+    <text x="64" y="292" font-size="22" fill="#8B949E">不只给数据，再往下给一层：直觉、经验、情境判断</text>
+
+    <g id="meta" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9BA4AF">
+      <rect x="64" y="322" width="62" height="34" rx="8" fill="#1A212B" stroke="#2A3340"/>
+      <text x="95" y="345" text-anchor="middle">MIT</text>
+      <rect x="138" y="322" width="116" height="34" rx="8" fill="#1A212B" stroke="#2A3340"/>
+      <text x="196" y="345" text-anchor="middle">SKILL.md</text>
+      <rect x="266" y="322" width="110" height="34" rx="8" fill="#1A212B" stroke="#2A3340"/>
+      <text x="321" y="345" text-anchor="middle">3 个模板</text>
+      <rect x="388" y="322" width="104" height="34" rx="8" fill="#1A212B" stroke="#2A3340"/>
+      <text x="440" y="345" text-anchor="middle">中 / EN</text>
+    </g>
+
+    <text x="64" y="392" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="16" fill="#6E7681">we know more than we can tell · 我们知道的比能说出的多</text>
+  </g>
+
+  <!-- ============ right: the two-layer mechanism ============ -->
+  <g id="mechanism">
+    <rect x="760" y="96" width="380" height="260" rx="18" fill="#141A21" stroke="#262E3A" stroke-width="1.5"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif">
+      <circle cx="778" cy="127" r="5" fill="#6FA8DC"/>
+      <text x="792" y="133" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="18" letter-spacing="1.5" fill="#6FA8DC">1 · EXPLICIT</text>
+      <text x="792" y="168" font-size="26" font-weight="700" fill="#E8EAED">显性层</text>
+      <text x="792" y="200" font-size="20" fill="#9BA4AF">数据 · 定义 · 可验证推理</text>
+    </g>
+
+    <line x1="792" y1="224" x2="1108" y2="224" stroke="#2C3541" stroke-width="1.5"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif">
+      <circle cx="778" cy="259" r="5" fill="#E5A03C"/>
+      <text x="792" y="265" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="18" letter-spacing="1.5" fill="#E5A03C">2 · TACIT</text>
+      <text x="792" y="300" font-size="26" font-weight="700" fill="#E8EAED">默会层</text>
+      <text x="792" y="332" font-size="20" fill="#9BA4AF">直觉 · 经验 · 情境判断</text>
+    </g>
+
+    <text x="950" y="392" text-anchor="middle"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" fill="#6E7681">do not skip the tacit layer</text>
+  </g>
+</svg>

@@ -2,7 +2,7 @@
 
 > 让 AI 说出它「说不清但就是知道」的那部分。
 
-作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)
+作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
 
 [English below](#english)
 
@@ -152,4 +152,4 @@ Three templates included: **judgment** (should I / is it worth it), **style** (d
 
 ## License
 
-MIT — 随便用，改署名也行。
+MIT — 随便用，署名Ailsaahaha

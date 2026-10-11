@@ -8,7 +8,7 @@
 
 作者：**Ailsaahaha** · [GitHub](https://github.com/Ailsaahaha) · [ailamemo.com](https://www.ailamemo.com)
 
-https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/
+[站点文章 · 默会知识提示](https://www.ailamemo.com/aicreate/skill/tacit-knowledge-prompting-2026-10-10/)
 
 [English below](#english)
 

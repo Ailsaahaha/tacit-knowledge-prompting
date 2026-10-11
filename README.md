@@ -88,6 +88,8 @@
 ```
 </details>
 
+完整对话示例（原始问题 → 普通回答 → 两层回答 → 复盘）见 **[examples/](./examples/)**，含一个来自真实业务数据的案例。
+
 ## 安装
 
 把 `SKILL.md` 放到你的 Agent skills 目录即可：
